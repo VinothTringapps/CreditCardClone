@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5a47428-f1ef-4308-bcb2-041f61909bf3" name="Changes" comment="upload">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicCreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/BasicCreditCard.java" afterDir="false" />
-    </list>
+    <list default="true" id="c5a47428-f1ef-4308-bcb2-041f61909bf3" name="Changes" comment="upload" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +66,35 @@
       <option name="project" value="LOCAL" />
       <updated>1674822904136</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="upload">
+      <created>1674823081635</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674823081635</updated>
+    </task>
+    <task id="LOCAL-00005" summary="upload">
+      <created>1674823089985</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674823089985</updated>
+    </task>
+    <task id="LOCAL-00006" summary="upload">
+      <created>1674823177898</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674823177898</updated>
+    </task>
+    <task id="LOCAL-00007" summary="upload">
+      <created>1674823192048</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674823192048</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
