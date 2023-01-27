@@ -1,6 +1,6 @@
 package org.example;
 
-import java.util.Scanner;
+import java.util.*;
 import java.util.logging.Logger;
 
 //" 3. Design a class for a basic credit card. The class should have the following features:
