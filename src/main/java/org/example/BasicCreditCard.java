@@ -20,8 +20,8 @@ public class BasicCreditCard implements Cloneable {
         this.cardNumber=cardNumber;
         this.expiryDate=expiryDate;
     }
-    public boolean checkEqual(BasicCreditCard Verify){
-        return this.cardNumber.equalsIgnoreCase(Verify.cardHolderName);
+    public boolean checkEqual(BasicCreditCard verify){
+        return this.cardNumber.equalsIgnoreCase(verify.cardHolderName);
     }
 
 
