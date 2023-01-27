@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5a47428-f1ef-4308-bcb2-041f61909bf3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicCreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/BasicCreditCard.java" afterDir="false" />
-    </list>
+    <list default="true" id="c5a47428-f1ef-4308-bcb2-041f61909bf3" name="Changes" comment="u" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +45,18 @@
       <option name="presentableId" value="Default" />
       <updated>1674816498024</updated>
     </task>
+    <task id="LOCAL-00001" summary="u">
+      <created>1674821878607</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674821878607</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="u" />
+    <option name="LAST_COMMIT_MESSAGE" value="u" />
   </component>
 </project>
