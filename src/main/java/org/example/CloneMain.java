@@ -1,7 +1,7 @@
 package org.example;
 
-import java.util.Scanner;
-import java.util.logging.Logger;
+import java.util.*;
+import java.util.logging.*;
 
 public class CloneMain {
     public static void main(String[] args)throws CloneNotSupportedException {
